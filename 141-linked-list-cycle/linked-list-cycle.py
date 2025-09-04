@@ -10,14 +10,14 @@ class Solution(object):
         :type head: ListNode
         :rtype: bool
         """
-        if not head or not head.next:
+        if not head or not head.next: 
             return False
-        visited = [head]
+        visited = {head}
         curr = head
         while curr.next:
             curr = curr.next
             if curr in visited:
                 return True
             else:
-                visited.append(curr)
+                visited.add(curr)
         return False
