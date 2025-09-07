@@ -1,0 +1,21 @@
+class Solution(object):
+    def countCharacters(self, words, chars):
+        """
+        :type words: List[str]
+        :type chars: str
+        :rtype: int
+        """
+        chars_count = Counter(chars)
+        lengths = 0
+        for word in words:
+            word_count = Counter(word)
+            match = True
+            for c, n in word_count.items():
+                if c not in chars_count or chars_count[c] < n:
+                    match = False
+                    break
+            if match:
+                lengths += len(word)
+        return lengths
+            
+            
