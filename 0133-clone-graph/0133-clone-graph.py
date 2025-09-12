@@ -12,5 +12,28 @@ class Solution(object):
         :type node: Node
         :rtype: Node
         """
-        return copy.deepcopy(node)
+        if not node:
+            return None
+        
+        start_node = node
+        visited = {start_node: Node(start_node.val, [])} #original : clone
+        #we will do bfs -> go through each layer sequentially
+        q = []
+        q.append(node)
+        while q:
+            node = q.pop(0)
+            neighbors = node.neighbors
+            for neighbor in neighbors:
+                if neighbor not in visited:
+                    q.append(neighbor)
+                    visited[neighbor] = Node(neighbor.val, [])
+                visited[node].neighbors.append(visited[neighbor])
+        return visited[start_node]
+        
+            
+            
+
+        
+
+
         
