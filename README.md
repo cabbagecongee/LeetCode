@@ -11,16 +11,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/cabbagecongee/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0139-word-break](https://github.com/cabbagecongee/LeetCode/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/cabbagecongee/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/cabbagecongee/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0139-word-break](https://github.com/cabbagecongee/LeetCode/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/cabbagecongee/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Hash Table
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/cabbagecongee/LeetCode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/cabbagecongee/LeetCode/tree/master/0139-word-break) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -37,8 +40,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/cabbagecongee/LeetCode/tree/master/0011-container-with-most-water) |
+| [0139-word-break](https://github.com/cabbagecongee/LeetCode/tree/master/0139-word-break) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/cabbagecongee/LeetCode/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/cabbagecongee/LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/cabbagecongee/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
