@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cabbagecongee/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/cabbagecongee/LeetCode/tree/master/0036-valid-sudoku) |
 | [0133-clone-graph](https://github.com/cabbagecongee/LeetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/cabbagecongee/LeetCode/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/cabbagecongee/LeetCode/tree/master/0268-missing-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/cabbagecongee/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/cabbagecongee/LeetCode/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/cabbagecongee/LeetCode/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/cabbagecongee/LeetCode/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/cabbagecongee/LeetCode/tree/master/0268-missing-number) |
 ## Greedy
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/cabbagecongee/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/cabbagecongee/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
