@@ -55,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/cabbagecongee/LeetCode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/cabbagecongee/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/cabbagecongee/LeetCode/tree/master/1044-find-common-characters) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/cabbagecongee/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/cabbagecongee/LeetCode/tree/master/0011-container-with-most-water) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/cabbagecongee/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 ## Trie
 |  |
 | ------- |
