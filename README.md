@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/cabbagecongee/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/cabbagecongee/LeetCode/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/cabbagecongee/LeetCode/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/cabbagecongee/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1044-find-common-characters](https://github.com/cabbagecongee/LeetCode/tree/master/1044-find-common-characters) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/cabbagecongee/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/cabbagecongee/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/cabbagecongee/LeetCode/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/cabbagecongee/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
