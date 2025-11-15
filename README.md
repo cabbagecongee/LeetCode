@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/cabbagecongee/LeetCode/tree/master/0062-unique-paths) |
 | [0139-word-break](https://github.com/cabbagecongee/LeetCode/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/cabbagecongee/LeetCode/tree/master/0647-palindromic-substrings) |
+| [1086-divisor-game](https://github.com/cabbagecongee/LeetCode/tree/master/1086-divisor-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/cabbagecongee/LeetCode/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/cabbagecongee/LeetCode/tree/master/0268-missing-number) |
+| [1086-divisor-game](https://github.com/cabbagecongee/LeetCode/tree/master/1086-divisor-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/cabbagecongee/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/cabbagecongee/LeetCode/tree/master/0143-reorder-list) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/cabbagecongee/LeetCode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/cabbagecongee/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
