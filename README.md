@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/cabbagecongee/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/cabbagecongee/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/cabbagecongee/LeetCode/tree/master/0143-reorder-list) |
+| [0349-intersection-of-two-arrays](https://github.com/cabbagecongee/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0647-palindromic-substrings](https://github.com/cabbagecongee/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1019-squares-of-a-sorted-array](https://github.com/cabbagecongee/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/cabbagecongee/LeetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/cabbagecongee/LeetCode/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/cabbagecongee/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/cabbagecongee/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0990-verifying-an-alien-dictionary](https://github.com/cabbagecongee/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1044-find-common-characters](https://github.com/cabbagecongee/LeetCode/tree/master/1044-find-common-characters) |
 ## Depth-First Search
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/cabbagecongee/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/cabbagecongee/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/cabbagecongee/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/cabbagecongee/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0990-verifying-an-alien-dictionary](https://github.com/cabbagecongee/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1019-squares-of-a-sorted-array](https://github.com/cabbagecongee/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/cabbagecongee/LeetCode/tree/master/1044-find-common-characters) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/cabbagecongee/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/cabbagecongee/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/cabbagecongee/LeetCode/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/cabbagecongee/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/cabbagecongee/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/cabbagecongee/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
