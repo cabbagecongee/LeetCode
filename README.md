@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/cabbagecongee/LeetCode/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/cabbagecongee/LeetCode/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/cabbagecongee/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0767-reorganize-string](https://github.com/cabbagecongee/LeetCode/tree/master/0767-reorganize-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/cabbagecongee/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1044-find-common-characters](https://github.com/cabbagecongee/LeetCode/tree/master/1044-find-common-characters) |
 ## Dynamic Programming
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/cabbagecongee/LeetCode/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/cabbagecongee/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/cabbagecongee/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0767-reorganize-string](https://github.com/cabbagecongee/LeetCode/tree/master/0767-reorganize-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/cabbagecongee/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1044-find-common-characters](https://github.com/cabbagecongee/LeetCode/tree/master/1044-find-common-characters) |
 ## Depth-First Search
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/cabbagecongee/LeetCode/tree/master/0011-container-with-most-water) |
+| [0767-reorganize-string](https://github.com/cabbagecongee/LeetCode/tree/master/0767-reorganize-string) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/cabbagecongee/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 ## Trie
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/cabbagecongee/LeetCode/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/cabbagecongee/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/cabbagecongee/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0767-reorganize-string](https://github.com/cabbagecongee/LeetCode/tree/master/0767-reorganize-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/cabbagecongee/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/cabbagecongee/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0767-reorganize-string](https://github.com/cabbagecongee/LeetCode/tree/master/0767-reorganize-string) |
 ## Merge Sort
 |  |
 | ------- |
@@ -190,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/cabbagecongee/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Counting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/cabbagecongee/LeetCode/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
