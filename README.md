@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/cabbagecongee/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/cabbagecongee/LeetCode/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/cabbagecongee/LeetCode/tree/master/0139-word-break) |
+| [0394-decode-string](https://github.com/cabbagecongee/LeetCode/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/cabbagecongee/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0767-reorganize-string](https://github.com/cabbagecongee/LeetCode/tree/master/0767-reorganize-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/cabbagecongee/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/cabbagecongee/LeetCode/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/cabbagecongee/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/cabbagecongee/LeetCode/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/cabbagecongee/LeetCode/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/cabbagecongee/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/cabbagecongee/LeetCode/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/cabbagecongee/LeetCode/tree/master/0394-decode-string) |
 ## Brainteaser
 |  |
 | ------- |
