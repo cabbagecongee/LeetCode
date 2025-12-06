@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/cabbagecongee/LeetCode/tree/master/0027-remove-element) |
 | [0143-reorder-list](https://github.com/cabbagecongee/LeetCode/tree/master/0143-reorder-list) |
 | [0349-intersection-of-two-arrays](https://github.com/cabbagecongee/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/cabbagecongee/LeetCode/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/cabbagecongee/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1019-squares-of-a-sorted-array](https://github.com/cabbagecongee/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/cabbagecongee/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/cabbagecongee/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/cabbagecongee/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/cabbagecongee/LeetCode/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/cabbagecongee/LeetCode/tree/master/0724-find-pivot-index) |
 | [0990-verifying-an-alien-dictionary](https://github.com/cabbagecongee/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1019-squares-of-a-sorted-array](https://github.com/cabbagecongee/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/cabbagecongee/LeetCode/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/cabbagecongee/LeetCode/tree/master/0455-assign-cookies) |
 | [0767-reorganize-string](https://github.com/cabbagecongee/LeetCode/tree/master/0767-reorganize-string) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/cabbagecongee/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 ## Trie
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/cabbagecongee/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/cabbagecongee/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/cabbagecongee/LeetCode/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/cabbagecongee/LeetCode/tree/master/0455-assign-cookies) |
 | [0767-reorganize-string](https://github.com/cabbagecongee/LeetCode/tree/master/0767-reorganize-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/cabbagecongee/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
