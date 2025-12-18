@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/cabbagecongee/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/cabbagecongee/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/cabbagecongee/LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/cabbagecongee/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/cabbagecongee/LeetCode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/cabbagecongee/LeetCode/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/cabbagecongee/LeetCode/tree/master/0139-word-break) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/cabbagecongee/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cabbagecongee/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/cabbagecongee/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/cabbagecongee/LeetCode/tree/master/0349-intersection-of-two-arrays) |
