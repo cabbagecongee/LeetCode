@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/cabbagecongee/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/cabbagecongee/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/cabbagecongee/LeetCode/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/cabbagecongee/LeetCode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/cabbagecongee/LeetCode/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/cabbagecongee/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/cabbagecongee/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -229,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/cabbagecongee/LeetCode/tree/master/0724-find-pivot-index) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/cabbagecongee/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
