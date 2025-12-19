@@ -1,38 +1,30 @@
-class Solution(object):
-    def pacificAtlantic(self, heights):
-        """
-        :type heights: List[List[int]]
-        :rtype: List[List[int]]
-        """
-        if not heights:
-            return []
-        DIRECTIONS = [(1,0), (0,1), (-1,0), (0,-1)]
-        pacific = set()
-        atlantic = set()
-
-        def dfs(r, c, ocean, heights):
-            rows, cols = len(heights), len(heights[0])
+class Solution:
+    def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
+        atlantic, pacific = set(), set()
+        DIRECTIONS = [(0, 1), (0, -1), (1, 0), (-1, 0)]
+        rows, cols = len(heights), len(heights[0])
+        def bfs(r, c, heights, ocean):
             if (r, c) in ocean:
                 return
-            ocean.add((r, c))
-
+            ocean.add((r,c))
             for dr, dc in DIRECTIONS:
-                if r + dr >= 0 and r + dr < rows and c + dc >= 0 and c + dc < cols:
-                    if heights[r+ dr][c+ dc] >= heights[r][c]:
-                        dfs(r+dr, c+dc, ocean, heights)
+                row = dr + r
+                col = dc + c
+                if 0 <= row < rows and 0 <= col < cols:
+                    if heights[r][c] <= heights[row][col]:
+                        bfs(row, col, heights, ocean)
+            return
         
-        #do dfs for top row + left col -> pacific
-        for c in range(len(heights[0])):
-            dfs(0, c, pacific, heights) # top row
-            dfs(len(heights)-1, c, atlantic, heights) # bottom row
-        for r in range(len(heights)):
-            dfs(r, 0, pacific, heights) # left col
-            dfs(r, len(heights[0])-1, atlantic, heights) #right col
+        # pacific -> top row, atlantic -> bottom row
+        for i in range(cols):
+            bfs(0, i, heights, pacific)
+            bfs(rows-1, i, heights, atlantic)
         
-        return list(pacific & atlantic)
-
-            
-
-
+        #pacific -> left col, atlantic -> right col
+        for j in range(rows):
+            bfs(j, 0, heights, pacific)
+            bfs(j, cols-1, heights, atlantic)
+        
+        return list(atlantic & pacific)
 
         
