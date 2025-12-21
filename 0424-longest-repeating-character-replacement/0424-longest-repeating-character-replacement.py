@@ -5,10 +5,7 @@ class Solution:
         l = 0
         for r in range(len(s)): #right
             # add to state
-            if s[r] in freq.keys():
-                freq[s[r]] += 1
-            else:
-                freq[s[r]] = 1
+            freq[s[r]] = 1 + freq.get(s[r], 0)
             
             #check if window_len - max_freq has hit size k 
             max_freq = max(freq.values())
