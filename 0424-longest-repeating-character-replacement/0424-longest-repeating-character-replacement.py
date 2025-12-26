@@ -17,7 +17,7 @@ class Solution(object):
             max_freq = max(freq.values())
             len_str = r - l + 1 
 
-            if len_str - max_freq - k > 0:
+            if len_str - max_freq  > k:
                 freq[s[l]] -= 1
                 l+=1
             
