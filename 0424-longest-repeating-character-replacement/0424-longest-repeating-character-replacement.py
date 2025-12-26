@@ -1,24 +1,29 @@
-class Solution:
-    def characterReplacement(self, s: str, k: int) -> int:
-        max_count = 0 #state variable
+class Solution(object):
+    def characterReplacement(self, s, k):
+        """
+        :type s: str
+        :type k: int
+        :rtype: int
+        """
         freq = {}
+        max_count = 0
         l = 0
-        for r in range(len(s)): #right
-            # add to state
-            freq[s[r]] = 1 + freq.get(s[r], 0)
-            
-            #check if window_len - max_freq has hit size k 
+
+        for r in range(len(s)):
+            #add to state
+            freq[s[r]] = freq.get(s[r], 0) + 1
+
+            #check window
             max_freq = max(freq.values())
-            if (r-l +1) - max_freq > k: #means window is too big
-                #update answer
+            len_str = r - l + 1 
+
+            if len_str - max_freq - k > 0:
                 freq[s[l]] -= 1
-                l += 1
-            max_count = max(r - l+1, max_count)
-
-        return max_count
-                
+                l+=1
             
-
-
+            max_count = max(r-l+1, max_count)
+        
+        return max_count
+            
 
         
