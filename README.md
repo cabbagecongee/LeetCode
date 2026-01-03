@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/cabbagecongee/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/cabbagecongee/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/cabbagecongee/LeetCode/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/cabbagecongee/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/cabbagecongee/LeetCode/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/cabbagecongee/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/cabbagecongee/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/cabbagecongee/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/cabbagecongee/LeetCode/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/cabbagecongee/LeetCode/tree/master/0268-missing-number) |
 | [1086-divisor-game](https://github.com/cabbagecongee/LeetCode/tree/master/1086-divisor-game) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/cabbagecongee/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/cabbagecongee/LeetCode/tree/master/0048-rotate-image) |
 | [0417-pacific-atlantic-water-flow](https://github.com/cabbagecongee/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Combinatorics
 |  |
