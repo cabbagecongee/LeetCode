@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/cabbagecongee/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/cabbagecongee/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/cabbagecongee/LeetCode/tree/master/0337-house-robber-iii) |
+| [0435-non-overlapping-intervals](https://github.com/cabbagecongee/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/cabbagecongee/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1086-divisor-game](https://github.com/cabbagecongee/LeetCode/tree/master/1086-divisor-game) |
 ## Hash Table
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/cabbagecongee/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/cabbagecongee/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0417-pacific-atlantic-water-flow](https://github.com/cabbagecongee/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/cabbagecongee/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/cabbagecongee/LeetCode/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/cabbagecongee/LeetCode/tree/master/0724-find-pivot-index) |
 | [0990-verifying-an-alien-dictionary](https://github.com/cabbagecongee/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/cabbagecongee/LeetCode/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/cabbagecongee/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/cabbagecongee/LeetCode/tree/master/0455-assign-cookies) |
 | [0767-reorganize-string](https://github.com/cabbagecongee/LeetCode/tree/master/0767-reorganize-string) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/cabbagecongee/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/cabbagecongee/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/cabbagecongee/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/cabbagecongee/LeetCode/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/cabbagecongee/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/cabbagecongee/LeetCode/tree/master/0455-assign-cookies) |
 | [0767-reorganize-string](https://github.com/cabbagecongee/LeetCode/tree/master/0767-reorganize-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/cabbagecongee/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
