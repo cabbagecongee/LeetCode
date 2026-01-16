@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/cabbagecongee/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/cabbagecongee/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/cabbagecongee/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/cabbagecongee/LeetCode/tree/master/0054-spiral-matrix) |
 | [0139-word-break](https://github.com/cabbagecongee/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/cabbagecongee/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cabbagecongee/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/cabbagecongee/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/cabbagecongee/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/cabbagecongee/LeetCode/tree/master/0054-spiral-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/cabbagecongee/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Combinatorics
 |  |
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/cabbagecongee/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/cabbagecongee/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
